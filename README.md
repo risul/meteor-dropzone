@@ -31,6 +31,12 @@ Template.hello.rendered = function() {
 }
 ```
 
+## Note
+
+This package does not include any css files. You have to implement your own css or 
+copy the default css files from [dist folder](https://github.com/enyo/dropzone/archive/v4.0.1.zip) into your project.
+
+
 ## Documentaion
 
 See the installation guide: http://www.dropzonejs.com/#installation
